@@ -1,11 +1,11 @@
 {
-  "version": "0.1.0",
-  "notes": "Versao inicial do app desktop Intelligence ID Comerciante",
-  "pub_date": "2026-07-21T05:27:31Z",
+  "version": "0.1.2",
+  "notes": "Atualização automática do Intelligence ID Comerciante.",
+  "pub_date": "2026-07-25T06:19:44Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUdUtweGVSditiUlNVbHJTMlRXTWY3V3dLcU53Qkh6M2xYWE1vZnlZYWI1aVRUb1VkcVVUY1ZBd3pMekpxTzc1cmZvcDlrVEYzSnFQT0ZxaGxWazBFRHE3RzF3WE02YmcwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0NjExNjA1CWZpbGU6SW50ZWxsaWdlbmNlIElEIENvbWVyY2lhbnRlXzAuMS4wX3g2NC1zZXR1cC5leGUKVVp5ZGoyd3hOUG43eVEwQWFjdnJMdWJNSlArUUVOMWxmWUlFek9iUW9yMWZ3cWhsUjhqT3BzaGlUMysxdUg1TWhOQ0N3ZGpUK1VPU3RqTGRyZ1EyQmc9PQo=",
-      "url": "https://github.com/vinceshaffer/intelligence-id-merchant-releases/releases/download/v0.1.0/Intelligence.ID.Comerciante_0.1.0_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUJUbXk5eHlEL0tIODZNd091UzQwaFJoVkIyOS9lb1dYVVZrMjdVSHltYlUxbTg4SlVTRFNyN0JCUzcydVFNUmFJVjU1YzVDUUVDRGJPdUdDZldEdDVEM09tdEZ3Vnc4PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg0OTYwMzgwCWZpbGU6SW50ZWxsaWdlbmNlIElEIENvbWVyY2lhbnRlXzAuMS4yX3g2NC1zZXR1cC5leGUKcnFZajNsQStwRXFrYldJZ2tablQ4dUVVVnBSOXk5SlQ1Z2kwRysycXdMMk5XWDJvVXovSzhJMUdGaVVEWTFxamRQbm1iZ01KY1hlV3NGeFBGZWJXQmc9PQo=",
+      "url": "https://raw.githubusercontent.com/vinceshaffer/intelligence-id-merchant-releases/main/releases/v0.1.2/intelligence-id-merchant_0.1.2_x64-setup.exe"
     }
   }
 }
