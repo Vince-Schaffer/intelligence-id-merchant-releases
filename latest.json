@@ -1,11 +1,11 @@
 {
-  "version": "0.1.14",
+  "version": "0.1.15",
   "notes": "Atualização automática do Intelligence ID Comerciante.",
-  "pub_date": "2026-07-30T00:49:43Z",
+  "pub_date": "2026-07-30T22:14:04Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUJUbXk5eHlEL0Z4VytTVHR5enBWelJRNmRlTDBhTG1SZ2pYMGUreHhPRGwwZmZ2TFp6NVdXM25MZTlhVzZJK3BsRFJOTGtZSElQaklKVHAxMXo3WFFuSDU2ODNaWUFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1MzcyNTc4CWZpbGU6SW50ZWxsaWdlbmNlIElEIENvbWVyY2lhbnRlXzAuMS4xNF94NjQtc2V0dXAuZXhlClVSME9GRHhmQ1F2WTRaZFkvZEEwVTBBTTNhYXRvajlRMmdxU1o4Yk0xOFRtR3RubXVmSWlrZFdMTThoTG43d1cvRkR2a3l3TG5sV0xCMU85QlF5MkF3PT0K",
-      "url": "https://raw.githubusercontent.com/vinceshaffer/intelligence-id-merchant-releases/main/releases/v0.1.14/intelligence-id-merchant_0.1.14_x64-setup.exe"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTeUJUbXk5eHlEL0NNbmh5UXJKT3NuRGZMeXpDK0pZWHplY2w1WmtjSHdBOHkrZ3NOaDEwTVhsb3hPU21vRDRwdVV5UDZsQUErUGZxTUlpZmI1NC9MZmdpTm5UYzlDbFFFPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzg1NDQ5NjM3CWZpbGU6SW50ZWxsaWdlbmNlIElEIENvbWVyY2lhbnRlXzAuMS4xNV94NjQtc2V0dXAuZXhlCnVUeDRadDBvT2pDemdud1RwRnNvVVZOZE83UG9uOTdGS2VJdTZXejVqenloQTZaOVNMQjZ0K0Z4eHhvVXlzUnU2VFVBNDdmZVBJWUFaSGMzWGl2bkFBPT0K",
+      "url": "https://raw.githubusercontent.com/vinceshaffer/intelligence-id-merchant-releases/main/releases/v0.1.15/intelligence-id-merchant_0.1.15_x64-setup.exe"
     }
   }
 }
